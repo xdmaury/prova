@@ -57,7 +57,7 @@ public class Main {
     private static int menu() {
         try {
             String opcaoString = JOptionPane.showInputDialog(null,
-                    "Escolhar uma questão\n\n"
+                    "Escolhar uma questao\n\n"
                     + "1 - Série de Fibonacci\n"
                     + "2 - Conveter Fahrenheit para Celsius\n"
                     + "3 - Equação 2ºgrau\n"
