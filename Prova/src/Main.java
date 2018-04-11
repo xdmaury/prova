@@ -58,9 +58,9 @@ public class Main {
         try {
             String opcaoString = JOptionPane.showInputDialog(null,
                     "Escolhar uma questao\n\n"
-                    + "1 - Série de Fibonacci\n"
+                    + "1 - Serie de Fibonacci\n"
                     + "2 - Conveter Fahrenheit para Celsius\n"
-                    + "3 - Equação 2 grau\n"
+                    + "3 - Equacao 2 grau\n"
                     + "4 - Mutiplicar matriz\n"
                     + "0 - SAIR", "Prova", JOptionPane.QUESTION_MESSAGE);
 
