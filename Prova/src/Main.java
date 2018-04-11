@@ -60,7 +60,7 @@ public class Main {
                     "Escolhar uma questao\n\n"
                     + "1 - Série de Fibonacci\n"
                     + "2 - Conveter Fahrenheit para Celsius\n"
-                    + "3 - Equação 2ºgrau\n"
+                    + "3 - Equação 2 grau\n"
                     + "4 - Mutiplicar matriz\n"
                     + "0 - SAIR", "Prova", JOptionPane.QUESTION_MESSAGE);
 
