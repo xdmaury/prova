@@ -40,7 +40,7 @@ public class Main {
                 break;
             case 3:
                 JOptionPane.showMessageDialog(null, "Informe o valor de A B e C");
-                JOptionPane.showMessageDialog(null, "Delata: " + metodos.EquacaoSegundoGrau(lerValorInt(), lerValorInt(), lerValorInt()));
+                JOptionPane.showMessageDialog(null, "Delta: " + metodos.EquacaoSegundoGrau(lerValorInt(), lerValorInt(), lerValorInt()));
                 break;
             case 4:
                 JOptionPane.showMessageDialog(null, "Informe numero de linas de colunas\n");
