@@ -62,6 +62,7 @@ public class Main {
                     + "2 - Conveter Fahrenheit para Celsius\n"
                     + "3 - Equacao 2 grau\n"
                     + "4 - Mutiplicar matriz\n"
+                    + "5 - outra opcoes no menu\n"
                     + "0 - SAIR", "Prova", JOptionPane.QUESTION_MESSAGE);
 
             // Converter o valor em String para inteiro
